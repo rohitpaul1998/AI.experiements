@@ -1,1 +1,1 @@
-# GenAI.experiements
+# AI.experiements
